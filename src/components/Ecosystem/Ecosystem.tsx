@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import streetLight from "../../../public/street_light_controler.png";
 interface IEcosystem{
     img:any;
 }

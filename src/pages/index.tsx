@@ -1,8 +1,8 @@
-import { useRouter } from "next/router";
+
 import Home from "./Home";
 
 const Index = () => {
-  const router = useRouter();
+  // const router = useRouter();
 
   return (
     <div>
